@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LinkedIn Job Notifier Setup",
+  "description": "An application to configure hourly job updates from LinkedIn to your Telegram. Enter desired job roles and your Telegram username to activate the notification service.",
+  "requestFramePermissions": []
+}
