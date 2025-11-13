@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**bioinfo-alert**
 
-# Run and deploy your AI Studio app
+Get custom alerts for new bioinformatics jobs on LinkedIn!
 
-This contains everything you need to run your app locally.
+**🌱 About This Project**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1nZe0JiugKmS8CH03k-LWkgag-WioUft1
+I built bioinfo-alert to solve a simple problem for myself and others in the field: staying updated with the latest bioinformatics job opportunities on LinkedIn, without having to constantly search manually.
 
-## Run Locally
+This tool is designed to help students, job-seekers, and researchers quickly discover relevant positions as soon as they’re posted.
 
-**Prerequisites:**  Node.js
+**🚀 Features**
 
+Automatically monitors LinkedIn for new bioinformatics job postings
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Sends real-time notifications for matching jobs
+
+Simple to customize: change keywords, location, or add new filters
+
+Built mainly in TypeScript
+
