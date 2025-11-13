@@ -16,3 +16,6 @@ Simple to customize: change keywords, location, or add new filters
 
 Built mainly in TypeScript
 
+**💻 Deployment**
+
+I've tested this on Google AI Studio and it’s easy to deploy elsewhere.
