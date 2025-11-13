@@ -1,10 +1,8 @@
-**bioinfo-alert**
-
 Get custom alerts for new bioinformatics jobs on LinkedIn!
 
 **🌱 About This Project**
 
-I built bioinfo-alert to solve a simple problem for myself and others in the field: staying updated with the latest bioinformatics job opportunities on LinkedIn, without having to constantly search manually.
+I built this app to solve a simple problem for myself and others in the field: staying updated with the latest bioinformatics job opportunities on LinkedIn, without having to constantly search manually.
 
 This tool is designed to help students, job-seekers, and researchers quickly discover relevant positions as soon as they’re posted.
 
